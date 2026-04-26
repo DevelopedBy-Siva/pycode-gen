@@ -5,7 +5,7 @@
     "num_problems": 164,
     "num_samples": 1,
     "temperature": 0.2,
-    "pass@1": 84.76,
+    "pass@1": 85.88,
     "pass@10": null,
     "num_passed": 139,
     "num_failed": 25,
